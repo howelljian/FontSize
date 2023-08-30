@@ -1,0 +1,29 @@
+body
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(205, 222, 255);
+    
+}
+
+.note
+{
+    font-size: 15px;
+    width: 40px;
+}
+#heading
+{
+    font-size:  23px;
+    
+}
+
+.copy_right_footer
+{
+    position:fixed;
+    bottom: 0;
+    width:100%;
+    line-height: 3;
+    text-align: center;
+    background-color: rgb(255, 156, 43);
+    color:white;
+    
+}
